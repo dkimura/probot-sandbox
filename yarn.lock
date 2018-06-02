@@ -2675,7 +2675,7 @@ jest-worker@^22.2.2, jest-worker@^22.4.3:
   dependencies:
     merge-stream "^1.0.1"
 
-jest@^22.4.3:
+jest@22.4.4:
   version "22.4.4"
   resolved "https://registry.yarnpkg.com/jest/-/jest-22.4.4.tgz#ffb36c9654b339a13e10b3d4b338eb3e9d49f6eb"
   dependencies:
@@ -3237,7 +3237,7 @@ node-pre-gyp@^0.10.0:
     semver "^5.3.0"
     tar "^4"
 
-nodemon@^1.17.2:
+nodemon@1.17.5:
   version "1.17.5"
   resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-1.17.5.tgz#e6a665c872fdf09d48bf2a81f3e85f8cfb39322a"
   dependencies:
@@ -3641,7 +3641,7 @@ private@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
 
-probot@^6.0.0:
+probot@6.2.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/probot/-/probot-6.2.0.tgz#9c6d743dd172553db2bb687907cee11e9dc99b58"
   dependencies:
@@ -4147,7 +4147,7 @@ slice-ansi@0.0.4:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/slice-ansi/-/slice-ansi-0.0.4.tgz#edbf8903f66f7ce2f8eafd6ceed65e264c831b35"
 
-smee-client@^1.0.1:
+smee-client@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/smee-client/-/smee-client-1.0.1.tgz#b4add6fc3208c82032ba1a5e704330234eb0c402"
   dependencies:
@@ -4293,7 +4293,7 @@ standard-engine@~7.0.0:
     minimist "^1.1.0"
     pkg-conf "^2.0.0"
 
-standard@^10.0.3:
+standard@10.0.3:
   version "10.0.3"
   resolved "https://registry.yarnpkg.com/standard/-/standard-10.0.3.tgz#7869bcbf422bdeeaab689a1ffb1fea9677dd50ea"
   dependencies:
