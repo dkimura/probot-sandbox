@@ -12,18 +12,13 @@
   "pinDigests": false,
   "packageRules": [
     {
-      "depTypeList": "devDependencies",
-      "groupName": "devDependencies",
-      "groupSlug": "devDependencies",
       "packagePatterns": [
         "*"
       ]
     },
     {
-      "groupName": "dependencies",
-      "groupSlug": "dependencies",
-      "packagePatterns": [
-        "*"
+      "depTypeList": [
+        "devDependencies"
       ]
     }
   ]
