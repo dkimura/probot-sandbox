@@ -14,12 +14,22 @@
     {
       "packagePatterns": [
         "*"
-      ]
+      ],
+      "depTypeList": [
+        "dependencies"
+      ],
+      "groupName": "dependencies",
+      "groupSlug": "dependencies"
     },
     {
+      "packagePatterns": [
+        "*"
+      ],
       "depTypeList": [
         "devDependencies"
-      ]
+      ],
+      "groupName": "devDependencies",
+      "groupSlug": "devDependencies"
     }
   ]
 }
