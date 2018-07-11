@@ -9,5 +9,14 @@
   "devDependencies": {
     "automerge": true
   },
-  "pinDigests": false
+  "pinDigests": false,
+  "packageRules": [
+    {
+      "packagePatterns": [
+        "*"
+      ],
+      "groupName": "all dependencies",
+      "groupSlug": "all"
+    }
+  ]
 }
