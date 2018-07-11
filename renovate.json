@@ -11,7 +11,9 @@
     {
       "packagePatterns": [
         "*"
-      ],
+      ]
+    },
+    {
       "depTypeList": [
         "dependencies"
       ],
@@ -19,9 +21,6 @@
       "groupSlug": "dependencies"
     },
     {
-      "packagePatterns": [
-        "*"
-      ],
       "depTypeList": [
         "devDependencies"
       ],
