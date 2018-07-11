@@ -17,15 +17,13 @@
       "depTypeList": [
         "dependencies"
       ],
-      "groupName": "dependencies",
-      "groupSlug": "dependencies"
+      "groupName": "dependencies"
     },
     {
       "depTypeList": [
         "devDependencies"
       ],
-      "groupName": "devDependencies",
-      "groupSlug": "devDependencies"
+      "groupName": "devDependencies"
     }
   ]
 }
