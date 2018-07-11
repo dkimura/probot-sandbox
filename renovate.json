@@ -6,9 +6,6 @@
   "major": {
     "automerge": false
   },
-  "devDependencies": {
-    "automerge": true
-  },
   "pinDigests": false,
   "packageRules": [
     {
